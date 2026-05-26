@@ -225,3 +225,6 @@ chE/evaluate_math500.py
 chE/figures/
 chE/math500_test.json
 chE/qwen3/
+
+nohup.out
+main.py
